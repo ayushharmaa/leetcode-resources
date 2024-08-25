@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
 </p>
-##usefulMaterial
+## usefulMaterial
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 ## 💡 Tips
